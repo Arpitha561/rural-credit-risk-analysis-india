@@ -35,7 +35,8 @@ risk of not repaying their loans.
 ![Page 1](dashboard image1.png)
 
 ### Page 2 — Deep Analysis
-![Page 2](dashborad image2.png)
+
+![Page 2](dashboard image2.png)
 
 
 
